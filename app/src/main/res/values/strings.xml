@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MyfirarApplication</string>
+    <string name="name_text">Md Omar Faruk </string>
+    <string name="name_text_logtext">Fiber to the home (FTTH) network security has become a very important topic for an FTTH network. Fault protection became important issues in order to present an efficient FTTH network and simultaneously and provide continuous services to the end user without being interrupted by any failure in fiber lines. The failure at optical lines will give two negative impacts. First, the fiber cut will cause optical leakage that is able to damage our eyes. Second, an interruption will occur during the distribution of multimedia service to customers for a long period of time. In the traditional method, when there is a breakdown in FTTH lines, the engineer must go to the failure location to check the optical cable using an optical time-domain reflect meter (OTDR). The disadvantage of this conventional method is that the engineer must leave the Central Office to inject a laser from customer location. It will cause inconvenience, service disruption and waste valuable time for both parties. In this paper, we developed, </string>
+
 </resources>
